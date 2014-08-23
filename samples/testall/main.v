@@ -25,7 +25,7 @@ module main(anode, segment, dp, clk);
 	 //input [3:0] btn;
 	 input clk;
 	 
-	 //test
+	 //test2
 	 
 	 SevenSegmentDisplay display(
 	   .clk (clk),
